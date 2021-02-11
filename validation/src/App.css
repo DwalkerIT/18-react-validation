@@ -1,0 +1,36 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form {
+  margin: 20px;
+} */
+body {
+  margin: 80px;
+  background-color: lightgrey;
+  display: flex;
+  /* box-sizing: border-box; */
+}
+.h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  height: 30px;
+  width: 30px;
+  padding: 2%;
+  margin: 2%;
+  /* background-color: grey; */
+}
+.signUp {
+  display: flex;
+  flex-direction: column;
+  /* margin: 4%;
+  padding: 5%;
+  height: 50px;
+  width: 30px; */
+}
