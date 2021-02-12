@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-form {
+.form {
   margin: 20px;
 } */
 body {
@@ -19,9 +19,9 @@ body {
 }
 
 .container {
-  display: flex;
-  height: 30px;
-  width: 30px;
+  /* display: flex; */
+  /* height: 30px; */
+  width: 40%;
   padding: 2%;
   margin: 2%;
   /* background-color: grey; */
